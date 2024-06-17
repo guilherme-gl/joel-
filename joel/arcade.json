@@ -1,0 +1,25 @@
+{
+	"name": "projeto",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "mw7kp02nxmk",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r388.2",
+	"ife": true,
+	"used-plugins": [
+		"Sprite",
+		"Text"
+	],
+	"used-behaviors": [
+		"solid",
+		"Platform",
+		"bound"
+	]
+}
